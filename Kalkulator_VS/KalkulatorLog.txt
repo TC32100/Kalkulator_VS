@@ -1,0 +1,16 @@
+[Sent]: 5+5
+[Received]: 10.00
+[Sent]: 5+5
+[Received]: 10.00
+[Sent]: 5+5
+[Received]: 10.00
+[Sent]: 5+5
+[Received]: 10.00
+[Sent]: 8*25
+[Received]: 200.00
+[Sent]: 8/0
+[Received]: Error: Division durch Null
+[Sent]: d+5
+[Received]: Error: Ungueltige Eingabe vor dem Operator
+[Sent]: 5+d
+[Received]: Error: Ungueltige Eingabe nach dem Operator
